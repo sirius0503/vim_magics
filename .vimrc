@@ -109,3 +109,5 @@ Plugin 'tpope/vim-fugitive'
 Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
 
 set clipboard=unnamed
+
+set showcmd
